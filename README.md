@@ -4,6 +4,7 @@ Python program to Web scrape financial statements for public companies using Yah
 
 **Version requirements:**
 
+Jupyter Notebook
 Python 3.8.5
 <br>Selenium 3.141.0
 <br>Pandas 1.4.2
